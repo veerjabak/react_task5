@@ -1,0 +1,31 @@
+.App {
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+.calculate-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 20px;
+}
